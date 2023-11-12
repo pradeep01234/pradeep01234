@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pradeep01234
-- 👀 I’m interested in programming in c++
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in programming in javascript
+- 🌱 I’m currently learning machine learning
+- 💞️ I’m looking to collaborate on github...
 - 📫 How to reach me ...
 
 <!---
